@@ -529,6 +529,7 @@ body {
 }
 .footer-form-icon {
   fill: #f4f4fd;
+  margin-left: 16px;
 }
 /* BACKDROP */
 .backdrop {
